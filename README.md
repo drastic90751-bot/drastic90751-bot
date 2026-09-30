@@ -67,6 +67,7 @@
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab&logoColor=FC6D26">
+<img src="https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=0052CC">
 </p>
 
 <p>
