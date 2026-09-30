@@ -7,7 +7,7 @@
 
 <td width="65%" align="left" valign="top">
 
-<h3>Linguagens</h3>
+<p><strong>◈ Linguagens</strong></p>
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26">
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Batch-111111?style=for-the-badge&logo=windows-terminal&logoColor=white">
 </p>
 
-<strong>Frameworks e Tecnologias</strong>
+<p><strong>◈ Frameworks e Tecnologias</strong></p>
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933">
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Construct%203-111111?style=for-the-badge&logo=construct3&logoColor=00FFDA">
 </p>
 
-<strong>Bancos de Dados</strong>
+<p><strong>◈ Bancos de Dados</strong></p>
 
 <p>
 <img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=003B57">
@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1">
 </p>
 
-<strong>Ferramentas</strong>
+<p><strong>◈ Ferramentas</strong></p>
 
 <p>
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032">
@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/CMD-111111?style=for-the-badge&logo=windows-terminal&logoColor=white">
 </p>
 
-<strong>Contato</strong>
+<p><strong>◈ Contato</strong></p>
 
 <p>
 <a href="https://www.linkedin.com/in/heitor-santos-0a6126384">
@@ -111,6 +111,8 @@
 
 <br>
 
+<p align="center">
 <i>Comecei a programar e o código já começou a dar erro.</i>
+</p>
 
 </div>
