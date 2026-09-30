@@ -1,11 +1,10 @@
-<!-- Perfil GitHub - Dark minimalista com GIF lateral -->
+<!-- Perfil GitHub - Dark minimalista -->
 
 <div align="center">
 
-<table>
-<tr>
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
 
-<td width="65%" align="left" valign="top">
+<div align="left">
 
 <p><strong>◈ Linguagens</strong></p>
 
@@ -92,24 +91,14 @@
 <a href="https://www.linkedin.com/in/heitor-santos-0a6126384">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0077B5">
 </a>
-
 <a href="mailto:">
 <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D14836">
 </a>
 </p>
 
-</td>
+</div>
 
-<td width="35%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<br clear="all">
 
 <p align="center">
 <i>Comecei a programar e o código já começou a dar erro.</i>
