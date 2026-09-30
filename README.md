@@ -93,7 +93,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0077B5">
 </a>
 
-<a href="mailto:drastic90751@gmail.com?subject=Contato%20pelo%20GitHub">
+<a href="mailto:drastic90751@gmail.com?subject=Contato%20pelo%20GitHub" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D14836">
 </a>
 </p>
